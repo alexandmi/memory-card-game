@@ -1,2 +1,2 @@
 # memory-card-game
-Memory card game with flags
+Memory card game with console printouts
